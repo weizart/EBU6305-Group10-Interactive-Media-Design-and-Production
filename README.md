@@ -16,9 +16,10 @@ Jie Wang, BUPT 2020213039, QM 200978615, 2020213039@bupt.edu.cn
 
 Ming Zhang, BUPT Student Number, QM Student Number, Email
 
-# Assigned TA: Chenwei Yan #
+Assigned TA: Chenwei Yan
 
-##Submit
+## Submit
+
 1.Our Websites：  
 
 The final version has been updated, please download the latest release to check our project.
