@@ -23,6 +23,8 @@ Assigned TA: Chenwei Yan
 1.Our Websites：  
 
 The final version has been updated, please download the latest release to check our project.
+
+https://github.com/weizart/EBU6305-Group10-Interactive-Media-Design-and-Production/releases/tag/April-21th
   
 2.demo video
 
