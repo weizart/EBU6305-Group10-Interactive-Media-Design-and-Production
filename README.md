@@ -6,15 +6,15 @@
 
 ## Members:
 
-Ziang Wei, BUPT 2020213043, QM 200978844, Email weiziang@bupt.edu.cn
+Ziang Wei, Email weiziang@bupt.edu.cn
 
-Yuyang Zhou, BUPT 2020213047, QM 200979896, Email 2020213047@bupt.edu.cn
+Yuyang Zhou, Email 2020213047@bupt.edu.cn
 
-Sibo Wang, BUPT Student Number, QM Student Number, Email
+Sibo Wang, Email
 
-Jie Wang, BUPT 2020213039, QM 200978615, 2020213039@bupt.cn
+Jie Wang, 2020213039@bupt.cn
 
-Ming Zhang, BUPT Student Number, QM Student Number, Email
+Ming Zhang, Email
 
 Assigned TA: Chenwei Yan
 
