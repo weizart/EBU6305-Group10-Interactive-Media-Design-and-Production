@@ -9,10 +9,10 @@
 Leader: Ziang Wei, Email weiziang@bupt.edu.cn
 
 Member:
-Yuyang Zhou, Email 2020213047@bupt.edu.cn
-Sibo Wang, Email
-Jie Wang, 2020213039@bupt.cn
-Ming Zhang, Email
+Yuyang Zhou,
+Sibo Wang,
+Jie Wang,
+Ming Zhang
 
 Assigned TA: Chenwei Yan
 
